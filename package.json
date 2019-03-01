@@ -1,0 +1,12 @@
+{
+  "name": "butterchurn-presets-weekly",
+  "version": "0.0.1",
+  "description": "Weekly Butterchurn preset packs",
+  "main": "weeks/week1/presets.json",
+  "files": [
+    "weeks/week*/presets.json"
+  ],
+  "author": "Jordan Berg <jordannealberg@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://butterchurnviz.com"
+}
