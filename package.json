@@ -1,6 +1,6 @@
 {
   "name": "butterchurn-presets-weekly",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Weekly Butterchurn preset packs",
   "main": "weeks/presets.json",
   "files": [
